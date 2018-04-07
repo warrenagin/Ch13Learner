@@ -11,6 +11,8 @@ Codebook effective January 2008 is available at https://www.fjc.gov/sites/defaul
 
 All files are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You may obtain a copy of the license at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
+Thanks to Ed Flynn, Dirk Hartung, and Apoorv Agarwal for their comments and suggestions on this project, Cory Clemmons for introducing me to TensorFlow, and Daniel Katz, Michael Bommarito and Rohan Pavuluri for general inspiration .
+
 # Jupyter notebooks dependencies:
 
 	ipython 6.1.0
