@@ -1,0 +1,38 @@
+Features used: ['JOINT', 'ORGD1FPRSE', 'PRFILE', 'DISTSUCCESS', 'FEEI', 'REALPROPNONE', 'REALPROPVALUE', 'PERSPROPVALUE', 'UNSECNPRNULL', 'UNSECNPRVALUE', 'UNSECPRVALUE', 'AVGMNTHIVALUE', 'IEINDEX', 'IEGAP']
+ n_estimators: 1000 
+ max_features: auto 
+ max_depth: 20 
+ min_samples_split: 150 
+ min_samples_leaf: 1 
+Train Set Accuracy: 74.19 
+Train set AUC: 0.7419  
+Variable: DISTSUCCESS          Importance: 0.16705
+Variable: IEGAP                Importance: 0.159034
+Variable: IEINDEX              Importance: 0.150978
+Variable: UNSECNPRVALUE        Importance: 0.139934
+Variable: PERSPROPVALUE        Importance: 0.092271
+Variable: ORGD1FPRSE           Importance: 0.066059
+Variable: REALPROPVALUE        Importance: 0.052378
+Variable: PRFILE               Importance: 0.043093
+Variable: AVGMNTHIVALUE        Importance: 0.041418
+Variable: UNSECPRVALUE         Importance: 0.036262
+Variable: JOINT                Importance: 0.023453
+Variable: UNSECNPRNULL         Importance: 0.017592
+Variable: FEEI                 Importance: 0.006418
+Variable: REALPROPNONE         Importance: 0.004059
+
+Test Set Accuracy: 70.33 
+Test set AUC: 0.713  
+[[12515  6085]
+ [ 2815  8585]]
+
+Test Set Accuracy: 69.91 
+Test set AUC: 0.7093  
+[[12366  6195]
+ [ 2832  8607]]
+
+Test Set Accuracy: 69.78 
+Test set AUC: 0.7073  
+[[12304  6169]
+ [ 2898  8629]]
+
