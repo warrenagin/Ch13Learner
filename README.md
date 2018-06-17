@@ -86,4 +86,4 @@ Log file created by the testing script - contains model parameters and the resul
 
 	finalRFModel.sav
 
-The random forests model pickled. See sample code in the testing script for help in unpickling.
+The random forests model pickled. See sample code in the testing script for help in unpickling. This file is too large for github and can be downloaded from https://drive.google.com/file/d/0B_NmKNNlKHjSRnI2TGJCQnQyNGs/view?usp=sharing
